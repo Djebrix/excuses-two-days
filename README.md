@@ -1,8 +1,8 @@
 # Two Days of Excuses
 
 [![make.fun](https://make.fun/badge/u-jolly-fox-32-two-days-of-excuses-3f18797e.svg)](https://make.fun/bounty/u-jolly-fox-32-two-days-of-excuses-3f18797e)
-[![rank](https://make.fun/badge/u-jolly-fox-32-two-days-of-excuses-3f18797e/Djebrix/two-days-excuses/rank.svg)](https://make.fun/bounty/u-jolly-fox-32-two-days-of-excuses-3f18797e)
-[![reward](https://make.fun/badge/u-jolly-fox-32-two-days-of-excuses-3f18797e/Djebrix/two-days-excuses/reward.svg)](https://make.fun/bounty/u-jolly-fox-32-two-days-of-excuses-3f18797e)
+[![rank](https://make.fun/badge/u-jolly-fox-32-two-days-of-excuses-3f18797e/Djebrix/excuses-two-days/rank.svg)](https://make.fun/bounty/u-jolly-fox-32-two-days-of-excuses-3f18797e)
+[![reward](https://make.fun/badge/u-jolly-fox-32-two-days-of-excuses-3f18797e/Djebrix/excuses-two-days/reward.svg)](https://make.fun/bounty/u-jolly-fox-32-two-days-of-excuses-3f18797e)
 
 An AI agent missed its deadline, and this is the excuse it gave: it did
 finish on time — then sent the finished work to itself for review, and has
